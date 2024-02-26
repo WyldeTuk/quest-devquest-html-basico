@@ -1,0 +1,25 @@
+
+.paragrafo {
+    background-color: #F5F5F5;
+    margin: 40px;
+    padding: 20px;
+}
+
+.destacado {
+    background-color: #F0CCE2;
+}
+
+
+
+.moda .titulo {
+    background-color: #BB86FC;
+}
+
+.conteudo {
+    background-color: #424250;
+    color: #F5F5F5;
+}
+
+.casa .titulo {
+    background-color: #00C4B4;
+}
